@@ -4,4 +4,4 @@ A collection of a bunch of small python programs and basic projects. The project
 
 ## List of Projects
 
-1. [automation-with-python](./automation-with-python)
+1. [Automation with Python](./01-automation-with-python)
